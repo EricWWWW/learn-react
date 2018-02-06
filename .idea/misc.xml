@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LessManager">
+    <option name="lessProfileMap">
+      <map>
+        <entry key="0">
+          <value>
+            <LessProfile>
+              <option name="cssDirectories">
+                <list>
+                  <CssDirectory>
+                    <option name="path" value="$USER_HOME$/work/creditcloud-admin/public/stylesheets" />
+                  </CssDirectory>
+                </list>
+              </option>
+              <option name="excludePattern" value="$USER_HOME$/work/creditcloud-admin/less/includes/**" />
+              <option name="id" value="0" />
+              <option name="lessDirPath" value="$USER_HOME$/work/creditcloud-admin/less" />
+              <option name="name" value="style" />
+            </LessProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="binzhao" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
